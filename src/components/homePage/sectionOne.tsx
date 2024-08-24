@@ -12,7 +12,7 @@ export function Collectible() {
                     <span className='text-base lg:text-lg xl:text-xl mb-6'>
                         Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris. Pharetra, eu imperdiet ipsum ultrices amet.
                     </span>
-                    <div className='flex flex-col lg:flex-row gap-4'>
+                    <div className='flex flex-row gap-4'>
                         <Link
                             href="/signup"
                             className="px-4 py-2 rounded-lg border border-[#78350F] text-[#78350F] text-base lg:text-lg"
@@ -36,7 +36,7 @@ export function Collectible() {
                 <div className='flex flex-col  flex-1 justify-center items-center lg:items-start text-center lg:text-left'>
                     <img src='icons/cup.svg' className="mx-auto lg:mx-0" />
                     <span className='text-[20px] font-bold mb-4'>
-                        Collectible Sneakers
+                    Nibh viverra
                     </span>
                     <span className='text-lg mb-6'>
                         Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris. Pharetra, eu imperdiet ipsum ultrices amet.

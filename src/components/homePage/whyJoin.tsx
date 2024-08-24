@@ -27,7 +27,7 @@ export function WhyJoin() {
                         </ul>
                         <Link
                             href="/signup"
-                            className="mt-6 px-4 py-2 rounded-lg border border-[#78350F] text-[#78350F] text-base lg:text-lg"
+                            className="mt-6 px-4 py-2 rounded-lg border border-[#78350F] text-[#78350F] text-base lg:text-lg z-10 cursor-pointer"
                         >
                             Sign up now
                         </Link>
