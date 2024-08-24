@@ -28,6 +28,7 @@ Follow these steps to get the project running in development and production envi
    ```
 
 3. **Build for Production**:
+   ts-config.json "moduleResolution": "Bundler", please change 
    ```bash
    npm run build
    ```
