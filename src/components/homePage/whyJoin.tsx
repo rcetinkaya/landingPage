@@ -34,7 +34,6 @@ export function WhyJoin() {
                     </div>
                     <div className="flex justify-end items-center mt-4 lg:mt-0 relative">
                         <img src="/media/Desktop.png" alt="Collectible Sneakers" className="max-w-full h-auto" />
-                        <img src="/media/Rectangle.png" alt="Decoration" className="absolute left-24 bottom-0 max-w-full h-auto" />
                     </div>
                 </div>
             </div>
